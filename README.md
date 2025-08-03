@@ -40,3 +40,19 @@ This ensures continuous integration and seamless deployment without manual inter
 | **CI/CD**               | Jenkins, GitHub                         |
 | **Deployment**          | Google Cloud Run                        |
 | **Data & Code Versioning**          | GitHub |
+
+
+## CI/CD Pipeline Stages
+
+- **Code push**: Developer pushes updated code/model to GitHub.
+- **Jenkins trigger**: Automatically starts Jenkins pipeline on Puch code to GitHub.
+- **Build phase**: Jenkins:
+    - Pulls code
+    - Creates Docker image
+- **Push to GCR**: Docker image is pushed to Google Container Registry.
+- **Deployment**: Jenkins deploys the image to Google Cloud Run.
+- **Live App**: Application is available on the internet with a public URL.
+
+## Project Workflow
+
+  
