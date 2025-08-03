@@ -21,6 +21,10 @@ This project aims to help hotels manage their bookings more effectively by predi
 - Detect fraudulent booking behaviors
 
 ## Architecture
+On every code push to GitHub, Jenkins triggers an automated pipeline that builds a Docker image, pushes it to Google Container Registry, and deploys it to Google Cloud Run.
+This ensures continuous integration and seamless deployment without manual intervention.
+
+<img width="6999" height="591" alt="image" src="https://github.com/user-attachments/assets/ef307055-164c-4a14-a7cb-6c7036dae67b" />
 
 
 ## Teck Stack
