@@ -6,9 +6,9 @@
 - ⚙️ [Tech Stack](#tech-stack)
 - 🔄 [CI/CD Pipeline Stages](#ci-cd-pipeline-stages)
 - 📊[Project Workflow](#project-workflow)
-- 🧪 [CircleCI Pipeline Testing](#circleci-pipeline-testing)
 - 🔄[Model Deployment](#model-deployment)
 - 📝 [Future Enhancements](#future-enhancements)
+-  [Dataset](#dataset)
 
 ## 📌 Project Overview
 
@@ -95,6 +95,9 @@ Build a Flask-based web interface for hotel staff to input booking data and rece
 - Docker image creation
 - Pushing to Google Container Registry (GCR)
 - Deployment to Google Cloud Run for live access
+
+## Model Deployment
+
 
 ## Future Enhancements
 - Integrate Grafana & Prometheus for monitoring
