@@ -108,5 +108,5 @@ Build a Flask-based web interface for hotel staff to input booking data and rece
 
 ## Dataset
 
-Hotel Reservation Dataset on Kaggle
+[Hotel Reservation Dataset on Kaggle](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset)
   
