@@ -91,9 +91,9 @@ Build a Flask-based web interface for hotel staff to input booking data and rece
 
 10. CI/CD Automation
 - Set up a Jenkins pipeline to automate:
-- Docker image creation
-- Pushing to Google Container Registry (GCR)
-- Deployment to Google Cloud Run for live access
+    - Docker image creation
+    - Pushing to Google Container Registry (GCR)
+    - Deployment to Google Cloud Run for live access
 
 ## Model Deployment
 
