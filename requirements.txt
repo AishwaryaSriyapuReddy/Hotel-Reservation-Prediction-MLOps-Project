@@ -1,13 +1,14 @@
-pandas==1.5.3
-numpy==1.23.5
+setuptools
+pandas
+numpy
 google-cloud-storage
-scikit-learn==1.3.2
+scikit-learn
 pyyaml
-#seaborn==0.12.2
-#matplotlib==3.7.3
-#statsmodels==0.14.1
+#seaborn
+#matplotlib
+#statsmodels
 imbalanced-learn
-#xgboost==1.7.6
+#xgboost
 lightgbm
 mlflow
 
