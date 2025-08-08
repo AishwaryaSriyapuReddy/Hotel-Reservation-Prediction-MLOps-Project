@@ -12,7 +12,7 @@ pipeline{
             steps{
                 script{
                     echo 'Cloning Github repo to Jenkins............'
-                    checkout scmGit(branches: [[name: '*/main']], extensions: [], userRemoteConfigs: [[credentialsId: 'https://github.com/AishwaryaSriyapuReddy/Hotel-Reservation-Prediction-MLOps-Project.git']])
+                    checkout scmGit(branches: [[name: '*/main']], extensions: [], userRemoteConfigs: [[credentialsId: 'github-token', url: 'https://github.com/AishwaryaSriyapuReddy/Hotel-Reservation-Prediction-MLOps-Project.git']])
                 }
             }
         }
@@ -31,4 +31,4 @@ pipeline{
             }
         }
     }
-}
+    
