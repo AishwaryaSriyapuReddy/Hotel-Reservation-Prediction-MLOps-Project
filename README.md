@@ -74,10 +74,10 @@ Convert the notebook logic into structured Python scripts using classes and func
 
 6. Experiment Tracking
 - Use MLflow to track:
-- Metrics (accuracy, precision, etc.)
-- Model versions
-- Hyperparameters
-- Artifacts (trained models)
+    - Metrics (accuracy, precision, etc.)
+    - Model versions
+    - Hyperparameters
+    - Artifacts (trained models)
 
 7. Pipeline Integration
 Combine data ingestion, preprocessing, and model training into a single training pipeline script for automated execution.
@@ -108,5 +108,5 @@ Build a Flask-based web interface for hotel staff to input booking data and rece
 
 ## Dataset
 
-Hotel Reservation Dataset on Kaggle
+[Hotel Reservation Dataset on Kaggle](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset)
   
