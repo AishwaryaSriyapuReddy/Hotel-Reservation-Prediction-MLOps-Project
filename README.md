@@ -97,11 +97,12 @@ Build a Flask-based web interface for hotel staff to input booking data and rece
 
 ## Model Deployment
 **- Jenkins Pipeline Run Successfull**
-<img width="732" height="200" alt="image" src="https://github.com/user-attachments/assets/0cc68fde-ca56-4a75-aa26-89e30d2fe5b3" />
+<img width="732" height="300" alt="image" src="https://github.com/user-attachments/assets/0cc68fde-ca56-4a75-aa26-89e30d2fe5b3" />  
 
 **- Cloud Run Deployment**
-<img width="756" height="117" alt="image" src="https://github.com/user-attachments/assets/45c6d90c-fdfe-4c43-93f5-e0c52f34ea6a" />
-<img width="756" height="215" alt="image" src="https://github.com/user-attachments/assets/5f19fd58-980e-4038-8667-e1880afe6eb9" />
+<img width="756" height="217" alt="image" src="https://github.com/user-attachments/assets/45c6d90c-fdfe-4c43-93f5-e0c52f34ea6a" />    
+
+<img width="756" height="315" alt="image" src="https://github.com/user-attachments/assets/5f19fd58-980e-4038-8667-e1880afe6eb9" />
 
 ## Future Enhancements
 - Integrate Grafana & Prometheus for monitoring
