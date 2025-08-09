@@ -103,6 +103,8 @@ Build a Flask-based web interface for hotel staff to input booking data and rece
 <img width="756" height="217" alt="image" src="https://github.com/user-attachments/assets/45c6d90c-fdfe-4c43-93f5-e0c52f34ea6a" />    
 
 <img width="756" height="315" alt="image" src="https://github.com/user-attachments/assets/5f19fd58-980e-4038-8667-e1880afe6eb9" />
+<img width="756" height="315" alt="image" src="https://github.com/user-attachments/assets/b7b12726-ead3-4b35-b3f4-14b3ad0161cc" />
+
 
 ## Future Enhancements
 - Integrate Grafana & Prometheus for monitoring
